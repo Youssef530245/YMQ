@@ -18,7 +18,7 @@ pip intall qrcode
 >> this command to intall the tool
 
 ```
-git clone https://www.github.com/Youssef530245/YMQ.git
+git clone https://github.com/Youssef530245/YMQ.git
 ```
 >> this an image show the results
 ![YMQ](https://github.com/Youssef530245/YMQ/blob/main/image.png?raw=true "image.png")
