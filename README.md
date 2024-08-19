@@ -1,5 +1,5 @@
 # YMQ
- YMQ is a simple python tool can create qrcodes for your text , it just take the the text which you want to make it into the qrcode image and name of the qrcode image as you want like qr.png .
+YMQ is a simple python tool can create qrcodes for your text , it just take the the text which you want to make it into the qrcode image and name of the qrcode image as you want like qr.png .
 
 ### for example
 - the text : hacking the world one day
